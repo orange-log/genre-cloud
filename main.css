@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 1.15;
+	margin-top: 20vh;
+	color: #220e10;
+	background-color: currentColor;
+}
+::selection {
+	color: #fff;
+	background-color: currentColor;
+}
+.genre-cloud {
+	text-align: center;
+	height: 30vw;
+	width: 90vw;
+	font-size: 1.35vw;
+	margin: 0 auto;
+}
+.genre-cloud--w300 {
+	height: 100px;
+	width: 300px;
+	font-size: .3em;
+}
+.genre-cloud--w600 {
+	height: 200px;
+	width: 600px;
+	font-size: .6em;
+}
+.genre-cloud--w900 {
+	height: 300px;
+	width: 900px;
+	font-size: .9em;
+}
+@supports (shape-outside: url(left.svg)){
+	.genre-cloud__oval {
+		width: 50%;
+		height: 100%;
+	}
+	.genre-cloud__oval--left {
+		float: left;
+		shape-outside: url(left.svg);
+	}
+	.genre-cloud__oval--right {
+		float: right;
+		shape-outside: url(right.svg);
+	}
+}
+.genre-cloud__genre {
+	font-size: 1.2em;
+	background-color: rgba(255,69,0,.25);
+	line-height: .7em;
+	font-weight: bolder;
+}
