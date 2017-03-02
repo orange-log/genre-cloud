@@ -16,7 +16,7 @@ exiftool Musik/**/*.mp3 -Genre -json > genre-cloud.json
 * index.html contains a prerendered version
 * main.js generates a new version from JSON to html
 
-## Create SVGs
+## Create SVGs for outer cloud shape (optional)
 ### install inkscape
 ```
 sudo apt-get install inkscape
