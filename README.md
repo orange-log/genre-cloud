@@ -15,6 +15,7 @@ exiftool Musik/**/*.mp3 -Genre -json > genre-cloud.json
 ## Understand HTML structure
 * index.html contains a prerendered version
 * main.js generates a new version from JSON to html
+
 ## Create SVGs
 ### install inkscape
 ```
