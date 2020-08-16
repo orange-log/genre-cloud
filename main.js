@@ -27,7 +27,7 @@
 	function renderCloud(arr) {
 		let el = document;
 		let clazz = 'genre-cloud__genre';
-		for (let i = 0; i < 9; i++) {
+		for (let i = 0; i < 14; i++) {
 			let found = false,
 					middle = el.querySelectorAll('.'+clazz).length / 2;
 			el = el.querySelector('.'+clazz+':nth-child('+Math.ceil(middle)+')');

@@ -1,4 +1,8 @@
 [{
+  "SourceFile": "009 Sound System/009 Sound System/009 Sound System - 009 Sound System - 01 - Dreamscape.mp3",
+  "Genre": "Trance"
+},
+{
   "SourceFile": "4 Non Blondes/Bigger, Better, Faster, More!/4 Non Blondes - Bigger, Better, Faster, More! - 03 - What’s Up.mp3",
   "Genre": "Alternative Rock"
 },
@@ -49,6 +53,14 @@
 {
   "SourceFile": "Absolute Beginner/Bambule/Absolute Beginner - Bambule - 12 - Nicht allein.mp3",
   "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Ace Ventura/Paradise Engineering/Ace Ventura - Paradise Engineering - 04 - Pranava (with Astrix).mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Ace Ventura/Rebirth/Ace Ventura - Rebirth - 02 - Psychic Experience (feat. Liquid Soul).mp3",
+  "Genre": "Psy Trance"
 },
 {
   "SourceFile": "Aleah/Aleah - Vapour (Mirco Niemeier EDIT).mp3",
@@ -239,6 +251,22 @@
   "Genre": "Dub Techno"
 },
 {
+  "SourceFile": "Armin van Buuren vs. Vini Vici feat. Hilight Tribe/Great Spirit/Armin van Buuren vs. Vini Vici feat. Hilight Tribe - Great Spirit - 02 - Great Spirit (extended mix).mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Asaf Avidan & The Mojos/One Day _ Reckoning Song (Wankelmut Remix)/Asaf Avidan & The Mojos - One Day _ Reckoning Song (Wankelmut Remix) - 01 - One Day _ Reckoning Song (Wankelmut Remix).mp3",
+  "Genre": "Minimal/Deep Tech"
+},
+{
+  "SourceFile": "Asaf Avidan & The Mojos/The Reckoning/Asaf Avidan & The Mojos - The Reckoning - 05 - Reckoning Song.mp3",
+  "Genre": "Soul"
+},
+{
+  "SourceFile": "Astrix & Avalon/Psy Fi Book of Changes_ Compiled by Astrix/Astrix & Avalon - Psy Fi Book of Changes_ Compiled by Astrix - 09 - Moonshine.mp3",
+  "Genre": "Psy Trance"
+},
+{
   "SourceFile": "Audision/Olgamikks/Audision - Olgamikks - 13 - Yellow Sunset (Robags Stoylago Edit).mp3",
   "Genre": "Tech House"
 },
@@ -267,8 +295,80 @@
   "Genre": "Indie Dance/Nu Disco"
 },
 {
+  "SourceFile": "Beastie Boys/Ill Communication/Beastie Boys - Ill Communication - 06 - Sabotage.mp3",
+  "Genre": "Hip Hop"
+},
+{
   "SourceFile": "Beastie Boys/Intergalactic/Beastie Boys - Intergalactic - 01 - Intergalactic.mp3",
   "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 01 - Ahnma (feat. Gzuz & Gentleman).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 02 - Es war einmal.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 03 - Meine Posse (feat. Samy Deluxe).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 04 - Schelle.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 05 - So schön (feat. Dendemann).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 06 - Rambo No. 5.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 07 - Kater.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 08 - Rap & fette Bässe.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 09 - Spam.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 10 - Thomas Anders (feat. Megaloh).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 11 - Macha Macha (feat. Haftbefehl).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 12 - Nach Hause.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Beginner/Advanced Chemistry/Beginner - Advanced Chemistry - 13 - Foxy Music.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Benn Finn/It's True/Benn Finn - It's True - 01 - It's True (Ron Flatter Remix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Billie Eilish/Bad Guy/Billie Eilish - Bad Guy - 01 - Bad Guy.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "Blastoyz/Mandala/Blastoyz - Mandala - 01 - Mandala.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Blastoyz vs. Ranji/Blastoyz + Friends (Part 2)/Blastoyz vs. Ranji - Blastoyz + Friends (Part 2) - 01 - Zoom.mp3",
+  "Genre": "Psy Trance"
 },
 {
   "SourceFile": "Bob Sinclar/Western Dream/Bob Sinclar - Western Dream - 03 - Everybody Movin'.mp3",
@@ -379,6 +479,10 @@
   "Genre": "Electronica/Downtempo"
 },
 {
+  "SourceFile": "Boris Brejcha/Feuerfalter (Special Edition)/Boris Brejcha - Feuerfalter (Special Edition) - 17 - Purple Noise.mp3",
+  "Genre": "Techno"
+},
+{
   "SourceFile": "Boris Brejcha/Mein Wahres Ich/Boris Brejcha - Mein wahres Ich - 01 - Flying Bird.mp3",
   "Genre": "Minimal/Deep Tech"
 },
@@ -427,6 +531,46 @@
   "Genre": "Pop"
 },
 {
+  "SourceFile": "C418/2 years of failure/C418 - 2 years of failure - 15 - stranger_think.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Caesars/Jerk It Out/Caesars - Jerk It Out - 01 - Jerk It Out.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "Cascandy/Blechy EP/Cascandy - Blechy EP - 01 - Blechy (Original Mix).mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Cascandy/Blechy EP/Cascandy - Blechy EP - 02 - No Love (Original Mix).mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Cascandy/Cascandy - Rammeln (Original Mix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Cascandy/Cascandy - Take Me Baby Reeemix.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Cascandy/Goodbye Darling/Cascandy - Goodbye Darling - 01 - Goodbye Darling (Original Mix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Cascandy/Goodbye Darling/Cascandy - Goodbye Darling - 02 - Oh, Boy (Original Mix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Cascandy/Goodbye Darling/Cascandy - Goodbye Darling - 03 - Goodbye Darling (Super Flu's Hellow Darling Remix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Cascandy/Surry Hills EP/Cascandy - Surry Hills EP - 01 - Surry (Original Mix).mp3",
+  "Genre": "Tech House"
+},
+{
   "SourceFile": "Christian Fischer/Bryzant Games/Christian Fischer - Bryzant Games - 01 - Advanced Panorama.mp3",
   "Genre": "Techno"
 },
@@ -471,6 +615,302 @@
   "Genre": "Techno"
 },
 {
+  "SourceFile": "Christine and the Queens/Chaleur humaine/Christine and the Queens - Chaleur humaine - 03 - Christine.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 01 - Nacht unterwegs (mit Jürgen Kerth Band).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 02 - Das Level.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 03 - Uh Girl.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 04 - Gute Musik.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 05 - Dort wo du wohnst (mit Delhia).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 06 - Es wird heiss.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 07 - Love the People (mit Steer-MSteer M).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 08 - Kalter Kaffee.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 09 - Bescheid.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 10 - Vier kleine Wände.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 11 - City Pizza Express.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 12 - Pizzaschachteln.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 13 - Wie heisst'n du_.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 14 - Wart mal.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 15 - Vergessen ist so leicht.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 16 - Fanpost (mit Tim Neuhaus).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 17 - Egal wo (mit Blumentopf).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 18 - Ich geh heim.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 19 - Herz Boom Boom.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 20 - Vorspiel.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Gute Musik/Clueso - Gute Musik - 21 - Kein Bock zu geh'n.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 01 - Barfuß.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 02 - Augen zu.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 03 - Niemand an dich denkt.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 04 - Wir woll´n Sommer.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 05 - Geisterstadt.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 06 - Mitnehm.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 07 - Gewinner.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 08 - Schreibe dir.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 09 - Keinen Zentimeter.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 10 - So sein wie du.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 11 - Utopie.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 12 - Verlierer.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 13 - Pause.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 14 - Jede Stadt.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 15 - So sehr dabei.mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/So sehr dabei/Clueso - So sehr dabei - 16 - Abspann (Weck sie nicht auf).mp3",
+  "Genre": "Pop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 01 - Intro.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 02 - Deine Stimme.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 03 - Sonne geht auf.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 04 - Grid locked (feat. Snaz & Remarkable).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 05 - My own World.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 06 - Gib mir Mut.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 07 - Sweet Memories.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 08 - Kaffee.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 09 - Jenseits von Eben.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 10 - Never been broke.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 11 - Old to the New (feat. Stir M & Layguuan Sharkie).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 12 - Die Lauten stinken nicht _ Nimm dir die Zeit 98'.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 13 - Sag mir wo.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 14 - Master Girl.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 15 - Spiel da nicht mit.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 16 - Text und Ton.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 17 - Migrant Souls (feat. Layguuan Sharkie & MC Metaphysics).mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Clueso/Text & Ton/Clueso - Text & Ton - 18 - Auf und ab.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Computerjockeys/Ping Pong/Computerjockeys - Ping Pong - 01 - Ping Pong.mp3",
+  "Genre": "Drum & Bass"
+},
+{
+  "SourceFile": "Cypress Hill/Black Sunday/Cypress Hill - Black Sunday - 10 - Hits From the Bong.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 01 - It Ain't Nuthin' Feat. Young De.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 02 - Light It Up.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 03 - Rise Up Feat. Tom Morello.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 04 - Get It Anyway.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 05 - Pass The Dutch Feat. Evidence and The Alchemist.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 06 - Bang Bang.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 07 - K.U.S.H..mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 08 - Get Em Up.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 09 - Carry Me Away Feat. Mike Shinoda.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 10 - Trouble Seeker Feat. Daron Malakian.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 11 - Take My Pain Feat. Everlast.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 12 - I Unlimited.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 13 - Armed & Dangerous.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 14 - Shut Em Down Feat. Tom Morello.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/Rise Up/Cypress Hill - Rise Up - 15 - Armada Latina Feat. Pitbull and Marc Anthony.mp3",
+  "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Cypress Hill/What's Your Number_/Cypress Hill - What's Your Number_ - 01 - What's Your Number_.mp3",
+  "Genre": "Alternative Hip Hop"
+},
+{
   "SourceFile": "Daft Punk/Da Funk/Daft Punk - Da Funk - 01 - Da Funk.mp3",
   "Genre": "House"
 },
@@ -499,6 +939,14 @@
   "Genre": "Space Rock"
 },
 {
+  "SourceFile": "Deadmau5/Alone With You/Deadmau5 - Alone With You - 01 - Alone With You.mp3",
+  "Genre": "Progressive House"
+},
+{
+  "SourceFile": "Deadmau5/Not Exactly/Deadmau5 - Not Exactly - 01 - Not Exactly.mp3",
+  "Genre": "Progressive House"
+},
+{
   "SourceFile": "Deep Forest/Sweet Lullaby/Deep Forest - Sweet Lullaby - 01 - Sweet Lullaby (original mix).mp3",
   "Genre": "Trance"
 },
@@ -517,6 +965,10 @@
 {
   "SourceFile": "Deep Forest/Sweet Lullaby/Deep Forest - Sweet Lullaby - 05 - Sweet Lullaby (Bonus A La Efx).mp3",
   "Genre": "Trance"
+},
+{
+  "SourceFile": "Den/Basement Remixes Part 1/Den - Basement Remixes Part 1 - 02 - Basement (Sarah Goldfarb Remix).mp3",
+  "Genre": "Minimal/Deep Tech"
 },
 {
   "SourceFile": "Dendemann/Stumpf ist Trumpf 3.0/Dendemann - Stumpf ist Trumpf 3.0 - 01 - Stumpf ist Trumpf 3.0.mp3",
@@ -547,6 +999,94 @@
   "Genre": "Techno"
 },
 {
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 01 - Lolo (intro) (featuring Xzibit & Tray‐DeeTray Deee).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 02 - The Watcher.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 03 - Fuck You (featuring Devin & Devin the Dude & Snoop Dogg).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 04 - Still D.R.E. (featuring Snoop Dogg).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 05 - Big Ego’s (featuring Hittman).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 06 - Xxplosive (featuring Hittman, Kurupt, Nate Dogg & Six‐Two6Two).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 07 - What’s the Difference (featuring Eminem & Xzibit).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 08 - Bar One (featuring Traci Nelson, Ms. Roq & Eddie Griffin).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 09 - Light Speed (featuring Hittman).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 10 - Forgot About Dre (featuring Eminem).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 11 - The Next Episode (featuring Snoop Dogg).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 12 - Let’s Get High (featuring Hittman, Kurupt & Ms. Roq).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 13 - Bitch Niggaz (featuring Snoop Dogg, Hittman & Six‐Two6Two).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 14 - The Car Bomb (featuring Mel-Man & Charis Henry).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 15 - Murder Ink (featuring Hittman & Ms. Roq).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 16 - Ed-Ucation.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 17 - Some L.A. Niggaz (featuring Hittman & Ms. Roq & Knoc-Turn'al & Time Bomb & Koka Kambon & Defari & MC Ren & Xzibit).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 18 - Pause 4 Porno (featuring Jake Steed).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 19 - Housewife (featuring Hittman & Kurupt).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 20 - Ackrite (featuring Hittman).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 21 - Bang Bang (featuring Hittman & Knoc-Turn'al).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Dr. Dre/2001/Dr. Dre - 2001 - 22 - The Message_ Outro (Album Version) (featuring Mary J. Blige & Rell).mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
   "SourceFile": "Einmusik/De' Medici (Disc 1)/Einmusik - De' Medici (Disc 1) - 01 - 69 (De' Medici edit).mp3",
   "Genre": "Tech House"
 },
@@ -569,6 +1109,14 @@
 {
   "SourceFile": "Einmusik/De' Medici (Disc 2)/Einmusik - De' Medici (Disc 2) - 01 - Jittery Heritage.mp3",
   "Genre": "Tech House"
+},
+{
+  "SourceFile": "Electric Universe/Journeys Into Outer Space/Electric Universe - Journeys Into Outer Space - 03 - Maya.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Electric Universe/Journeys Into Outer Space/Electric Universe - Journeys Into Outer Space - 09 - Freedom.mp3",
+  "Genre": "Psy Trance"
 },
 {
   "SourceFile": "Empire of the Sun/Walking on a Dream (Disc 1)/Empire of the Sun - Walking on a Dream (Disc 1) - 01 - Standing On The Shore.mp3",
@@ -617,6 +1165,46 @@
 {
   "SourceFile": "Eve feat. Gwen Stefani/Let Me Blow Ya Mind/Eve feat. Gwen Stefani - Let Me Blow Ya Mind - 01 - Let Me Blow Ya Mind.mp3",
   "Genre": "Hip Hop"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 01 - Superposition.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 02 - Gott ist Schrott.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 03 - Oddification.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 04 - Gentle Venom.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 05 - Das große Flimmern.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 06 - Silly Idol.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 07 - Punch the Dragon.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 08 - Fear of an Extra Planet.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 09 - The Friendly Coroner.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Extrawelt/Fear of an Extra Planet/Extrawelt - Fear of an Extra Planet - 10 - 2084.mp3",
+  "Genre": "Electronica/Downtempo"
 },
 {
   "SourceFile": "Extrawelt/Fernweh _ Drehfehler/Extrawelt - Fernweh _ Drehfehler - 01 - Fernweh.mp3",
@@ -687,8 +1275,28 @@
   "Genre": "Big Beat"
 },
 {
+  "SourceFile": "Fatboy Slim/Right Here, Right Now (CamelPhat Remix)/Fatboy Slim - Right Here, Right Now (CamelPhat Remix) - 01 - Right Here, Right Now (CamelPhat Remix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Fatboy Slim/Right Here, Right Now/Fatboy Slim - Right Here, Right Now - 01 - Right Here, Right Now.mp3",
+  "Genre": "Big Beat"
+},
+{
+  "SourceFile": "Fatboy Slim/Sunset (Bird Of Prey)/Fatboy Slim - Sunset (Bird Of Prey) - 01 - Sunset (Bird of Prey) (edit).mp3",
+  "Genre": "Big Beat"
+},
+{
   "SourceFile": "Fedde Le Grand/Output/Fedde Le Grand - Output - 06 - Back And Forth.mp3",
   "Genre": "House"
+},
+{
+  "SourceFile": "Ferdinand Dreyssig & Marvin Hey/Coeur de la nuit/Ferdinand Dreyssig & Marvin Hey - Coeur de la nuit - 03 - Coeur de la nuit (Worakls remix).mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Flogging Molly/Swagger/Flogging Molly - Swagger - 10 - Devil’s Dance Floor.mp3",
+  "Genre": "Celtic Punk"
 },
 {
   "SourceFile": "Freakadelika/Just Freakin'/Freakadelika - Just Freakin' - 01 - Just Freakin (Original Mix).mp3",
@@ -775,6 +1383,214 @@
   "Genre": "Deep House"
 },
 {
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 01 - Evolution.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 02 - Tranquility.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 03 - Lack of Love feat. Sizzla.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 04 - Different Places.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 05 - Round the World.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 06 - Serenity.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 07 - Soulfood.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 08 - Celebration feat. Alborosie.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 09 - Mount Zion.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 10 - The Light within feat. Diana King.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 11 - In pursuit of Happiness.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 12 - Rage & Anger.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 13 - Respond to Yourself.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 14 - Missing those Days.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 15 - Hosanna.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 16 - Jah Love feat. Jack Radics & Daddy Rings.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Another Intensity/Gentleman - Another Intensity - 17 - Sin City.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 01 - Send a Prayer.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 02 - Superior.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 03 - Caan Hold Us Down (feat. Barrington Levy and Daddy Rings).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 04 - Intoxication.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 05 - New Day.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 06 - Be Yourself (feat. Cocoa Tea).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 07 - All That You Had.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 08 - Life Takes More Than That.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 09 - Rumours.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 10 - Weary No More (feat. Tamika).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 11 - After a Storm.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 12 - Unconditional Love.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 13 - Face Off (feat. Anthony B).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 14 - Strange Things.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 15 - Blessing of Jah (feat. Ras Shiloh).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 16 - Church and State.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 17 - Lion's Den.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 18 - Mystic Wind (feat. Tony Rebel).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 19 - For the Children.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Confidence/Gentleman - Confidence - 20 - No Time Like Now (feat. Jack Radics).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 01 - Dem Gone.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 02 - Ina Different Time.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 03 - Runaway.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 04 - Man a Rise (feat. Bounty Killer).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 05 - Love Chant.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 06 - See Dem Coming.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 07 - Man of My Own (feat. Morgan Heritage).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 08 - Leave Us Alone.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 09 - Long Face.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 10 - Younger Generation (feat. Luciano & Mikey General).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 11 - Dangerzone (feat. Junior Kelly).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 12 - Empress.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 13 - Fire Ago Bun Dem (feat. Capleton).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 14 - Jah Ina Yuh Life.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Gentleman/Journey to Jah/Gentleman - Journey to Jah - 15 - Children of Tomorrow (feat. Jack Radics).mp3",
+  "Genre": "Reggae"
+},
+{
   "SourceFile": "Gorillaz feat. Daley/Doncamatic/Gorillaz feat. Daley - Doncamatic - 01 - Doncamatic.mp3",
   "Genre": "Synthpop"
 },
@@ -791,8 +1607,76 @@
   "Genre": "Drum & Bass"
 },
 {
+  "SourceFile": "Hilight Tribe/Free Tibet (Vini Vici Remix)/Hilight Tribe - Free Tibet (Vini Vici Remix) - 01 - Free Tibet (Vini Vici Remix).mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Hilight Tribe/Love Medicine and Natural Trance/Hilight Tribe - Love Medicine and Natural Trance - 01 - Free Tibet.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
   "SourceFile": "Iggy Pop/Lust for Life/Iggy Pop - Lust for Life - 04 - The Passenger.mp3",
   "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "James Blake/James Blake - Limit To Your Love (Alex Dimou Remix).mp3",
+  "Genre": "None"
+},
+{
+  "SourceFile": "Jamie Woon/Jamie Woon - Night Air (Solomun Version).mp3",
+  "Genre": "House"
+},
+{
+  "SourceFile": "Jamie Woon/Jamie Woon - Shoulda (Oliver Schories Edit).mp3",
+  "Genre": "None"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 01 - Feels Just Like It Should.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 02 - Dynamite.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 03 - Seven Days In Sunny June.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 04 - Electric Mistress.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 05 - Starchild.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 06 - Loveblind.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 07 - Talulah.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 08 - (Don't) Give Hate a Chance.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 09 - World That He Wants.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 10 - Black Devil Car.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 11 - Hot Tequila Brown.mp3",
+  "Genre": "Acid Jazz"
+},
+{
+  "SourceFile": "Jamiroquai/Dynamite/Jamiroquai - Dynamite - 12 - Time Won't Wait.mp3",
+  "Genre": "Acid Jazz"
 },
 {
   "SourceFile": "Jamiroquai/Rock Dust Light Star (Ltd. Deluxe Edt.)/Jamiroquai - Rock Dust Light Star (Ltd. Deluxe Edt.) - 02 - White Knuckle Ride.mp3",
@@ -807,16 +1691,28 @@
   "Genre": "Progressive Rock"
 },
 {
+  "SourceFile": "Johnny Cash/Hurt _ Personal Jesus/Johnny Cash - Hurt _ Personal Jesus - 01 - Hurt.mp3",
+  "Genre": "Country Rock"
+},
+{
+  "SourceFile": "Joris Voorn/The Secret/Joris Voorn - The Secret - 01 - The Secret.mp3",
+  "Genre": "Tech House"
+},
+{
   "SourceFile": "Kanye West/Graduation/Kanye West - Graduation - 03 - Stronger.mp3",
   "Genre": "Hip Hop"
 },
 {
-  "SourceFile": "Kaskade with Rebecca & Fiona/Fire/Kaskade with Rebecca & Fiona - Fire - 02 - Turn It Down.mp3",
+  "SourceFile": "Kaskade/Turn It Down (with Rebecca & Fiona) - Remixes/Kaskade - Turn It Down (with Rebecca & Fiona) - Remixes - 02 - Turn It Down (Le Castle Vania Remix).mp3",
   "Genre": "House"
 },
 {
   "SourceFile": "Kavinsky & Lovefoxxx/Nightcall/Kavinsky & Lovefoxxx - Nightcall - 01 - Nightcall.mp3",
   "Genre": "New Wave"
+},
+{
+  "SourceFile": "Kirin J Callinan/Bravado (Disc 1)/Kirin J Callinan - Bravado (Disc 1) - 05 - Big Enough (feat. Alex Cameron, Molly Lewis, Jimmy Barnes).mp3",
+  "Genre": "Electro Pop"
 },
 {
   "SourceFile": "Klangkarussell/Sonnentanz/Klangkarussell - Sonnentanz - 01 - Sonnentanz.mp3",
@@ -837,6 +1733,102 @@
 {
   "SourceFile": "Kollektiv Turmstrasse/Tristesse/Kollektiv Turmstrasse - Tristesse - 01 - Tristesse.mp3",
   "Genre": "Tech House"
+},
+{
+  "SourceFile": "Kontra K/Soldaten 2.0/Kontra K - Soldaten 2.0 - 01 - Soldaten 2.0.mp3",
+  "Genre": "Hip Hop/Rap"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 01 - Roni Size - Heroes (Kruder's Long Loose Bossa).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 02 - Alex Reece - Jazz Master.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 03 - Count Basic - Speechless (Drum 'n' Bass).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 04 - Rocker's HiFi - Going Under.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 05 - Bomb The Bass - Bug Powder Dust.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 06 - Aphrodelics - Rollin' On Chrome (Wild Motherfucker Dub).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 07 - Depeche Mode - Useless.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 08 - Count Basic - Gotta Jazz.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 09 - Rainer Trüby Trio - Donaueschingen.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 1)/Kruder & Dorfmeister - The K & D Sessions (Disc 1) - 10 - Lamb - Trans Fatty Acid.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 01 - David Holmes - Gone.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 02 - Sofa Surfers - Sofa Rockers.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 03 - Mama Oliver - Eastwest (Stoned Together).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 04 - Bomb The Bass - Bug Powder Dust.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 05 - Kruder & Dorfmeister - Boogie Woogie.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 06 - Sin - Where Shall I Turn.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 07 - Bone, Thugs & Harmony - 1st Of The Month.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 08 - Kruder & Dorfmeister - Lexicon.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 09 - Knowtoryus - Bomberclaad Joint.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 10 - Rockers Hi-Fi - Going Under.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruder & Dorfmeister/The K & D Sessions (Disc 2)/Kruder & Dorfmeister - The K & D Sessions (Disc 2) - 11 - Strange Cargo - Million Town.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Kruse & Nuernberg/Daze Without You EP/Kruse & Nuernberg - Daze Without You EP - 01 - Daze Without You (Original Mix).mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "lg Noise/Best Of Noise 013-016/lg Noise - Best Of Noise 013-016 - 03 - The Therapy (Original Mix).mp3",
+  "Genre": "Hardcore/Hard Techno"
 },
 {
   "SourceFile": "Lilly Wood & The Prick and Robin Schulz/Prayer in C/Lilly Wood & The Prick and Robin Schulz - Prayer in C - 02 - Prayer in C (Robin Schulz remix).mp3",
@@ -887,6 +1879,74 @@
   "Genre": "Electronica/Downtempo"
 },
 {
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 01 - Are You Really Waiting.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 02 - Caught in a Ghetto.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 03 - Guiltiness.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 04 - Just the Other Day.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 05 - Clearly (feat. Gentleman).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 06 - Children.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 07 - Hold You.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 08 - Running for Gold.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 09 - Hurtful Game.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 10 - The One.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 11 - Jah Gringo.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 12 - Rise Up.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 13 - Oh Gosh (feat. Miss Flint).mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Echo & Smoke/Martin Jondo - Echo & Smoke - 14 - All I Ever Know.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Jondo/Rainbow Warrior/Martin Jondo - Rainbow Warrior - 01 - Rainbow Warrior.mp3",
+  "Genre": "Reggae"
+},
+{
+  "SourceFile": "Martin Roth/An Analog Guy in a Digital World/Martin Roth - An Analog Guy in a Digital World - 01 - An Analog Guy in a Digital World.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Meg & Dia/Monster (DotEXE remix)/Meg & Dia - Monster (DotEXE remix) - 01 - Monster (DotEXE remix).mp3",
+  "Genre": "Dubstep"
+},
+{
   "SourceFile": "&ME/&ME - Everless (Original Mix).mp3",
   "Genre": "Tech House"
 },
@@ -899,12 +1959,16 @@
   "Genre": "Progressive House"
 },
 {
-  "SourceFile": "Michel Cleis feat. Totó La MomposinaTotó la Momposina/La Mezcla (Paul Kalkbrenner remix)/Michel Cleis feat. Totó La MomposinaTotó la Momposina - La Mezcla (Paul Kalkbrenner remix) - 01 - La Mezcla (Paul Kalkbrenner remix).mp3",
+  "SourceFile": "Michel Cleis feat. Totó La Momposina/La Mezcla (Paul Kalkbrenner remix)/Michel Cleis feat. Totó La Momposina - La Mezcla (Paul Kalkbrenner remix) - 01 - La Mezcla (Paul Kalkbrenner remix).mp3",
   "Genre": "House"
 },
 {
   "SourceFile": "Miriam Makeba/Miriam Makeba/Miriam Makeba - Miriam Makeba - 01 - The Retreat Song.mp3",
   "Genre": "African Music"
+},
+{
+  "SourceFile": "Moby/18/Moby - 18 - 02 - In This World.mp3",
+  "Genre": "Electronica/Downtempo"
 },
 {
   "SourceFile": "Moby/Hotel/Moby - Hotel - 01 - Hotel Intro.mp3",
@@ -916,6 +1980,10 @@
 },
 {
   "SourceFile": "Moby/Hotel/Moby - Hotel - 03 - Beautiful.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Moby/Hotel/Moby - Hotel - 04 - Lift Me Up.mp3",
   "Genre": "Electronica/Downtempo"
 },
 {
@@ -959,8 +2027,36 @@
   "Genre": "Electronica/Downtempo"
 },
 {
+  "SourceFile": "Moby/Natural Blues/Moby - Natural Blues - 01 - Natural Blues (single version).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
   "SourceFile": "Moby/Play_ The B Sides/Moby - Play_ The B Sides - 01 - Flower.mp3",
   "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Moby/Porcelain (Remixes)/Moby - Porcelain (Remixes) - 01 - Porcelain (Timo Maas & James Teej's Broken China Dub).mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Moby/The Story So Far/Moby - The Story So Far - 11 - Go (Subliminal mix unedited version).mp3",
+  "Genre": "Progressive House"
+},
+{
+  "SourceFile": "Moby/We Are All Made of Stars/Moby - We Are All Made of Stars - 01 - We Are All Made of Stars.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Monkey Safari/Happy Body Music/Monkey Safari - Happy Body Music - 02 - Sirens.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Monkey Safari/Happy Body Music - Remix Session 1/Monkey Safari - Happy Body Music - Remix Session 1 - 01 - Talking Mama (Cascandy remix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Monkey Safari/Hi Life/Monkey Safari - Hi Life - 01 - Hi Life.mp3",
+  "Genre": "Tech House"
 },
 {
   "SourceFile": "Moonbootica/To The Club/Moonbootica - To The Club - 02 - To The Club.mp3",
@@ -1031,6 +2127,14 @@
   "Genre": "Deep House"
 },
 {
+  "SourceFile": "N’to/Trauma (Worakls Remix)/N’to - Trauma (Worakls Remix) - 01 - Trauma (Worakls Remix).mp3",
+  "Genre": "Melodic Techno"
+},
+{
+  "SourceFile": "Nu/Endup/Nu - Endup - 03 - Palomita (Original Mix).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
   "SourceFile": "Oliver Koletzki & Fran/Lovestoned/Oliver Koletzki & Fran - Lovestoned - 01 - Lovestoned.mp3",
   "Genre": "House"
 },
@@ -1075,8 +2179,124 @@
   "Genre": "House"
 },
 {
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 01 - Kurze Einleitung.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 02 - The Devil In Me feat. Jan Blomquist.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 03 - You See Red feat. Dear Prudence.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 04 - Let Me Go Down feat. MC Ramon.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 05 - Boy Got Soul.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 06 - Fifty Ways To Love Your Liver feat. Jake the Ripper.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 07 - Join That Spin feat. Björn Störig.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 08 - Karambolage feat. Bosse.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 09 - Still feat. Fran.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 10 - 1994.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 11 - The Power Of Rausch feat. Nagel.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 12 - Reisezeit feat. Juli Holz.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/Großstadtmärchen 2/Oliver Koletzki - Großstadtmärchen 2 - 13 - I Miss My Friends.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 01 - A Tribe Called Kotori.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 02 - By My Side.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 03 - Tankwa Town.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 04 - Byron Bay.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 05 - Spiritual but Not Religious.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 06 - A Star Called Akasha.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 07 - Through the Darkness.mp3",
+  "Genre": "Melodic"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 08 - Planetarium.mp3",
+  "Genre": "Melodic"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 09 - They Can't Hold Me Back.mp3",
+  "Genre": "Melodic"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 10 - Iyewaye.mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 11 - Chaturanga.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 12 - Power to the People.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 13 - The Day We Leave Earth.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 14 - A Tribe Called Kotori (Short Edit).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Oliver Koletzki/The Arc of Tension/Oliver Koletzki - The Arc of Tension - 15 - Planetarium (Short Edit).mp3",
+  "Genre": "Melodic"
+},
+{
   "SourceFile": "Oliver Schories/Exit/Oliver Schories - Exit - 12 - Be.mp3",
   "Genre": "Tech House"
+},
+{
+  "SourceFile": "Oliver Schories/Exit - The Remixes 01/Oliver Schories - Exit - The Remixes 01 - 01 - But Maybe (Rampue Remix).mp3",
+  "Genre": "Deep House"
 },
 {
   "SourceFile": "Oliver Schories/Relatively Definitely/Oliver Schories - Relatively Definitely - 01 - Curl.mp3",
@@ -1135,8 +2355,16 @@
   "Genre": "Techno"
 },
 {
+  "SourceFile": "Oxia/Speicher 34/Oxia - Speicher 34 - 02 - Domino.mp3",
+  "Genre": "Techno"
+},
+{
   "SourceFile": "Oxia/Sun Step EP/Oxia - Sun Step EP - 01 - Sun Step.mp3",
   "Genre": "Tech House"
+},
+{
+  "SourceFile": "Pan-Pot/Popy & Caste/Pan-Pot - Popy & Caste - 02 - Schuss Aus Der Hüfte.mp3",
+  "Genre": "Minimal/Deep Tech"
 },
 {
   "SourceFile": "Parov Stelar/Coco/Parov Stelar - Coco - 02 - Hurt.mp3",
@@ -1539,6 +2767,10 @@
   "Genre": "Techno"
 },
 {
+  "SourceFile": "Paul Kalkbrenner/Paul Kalkbrenner - Aaron (DjM Remix).mp3",
+  "Genre": "None"
+},
+{
   "SourceFile": "Peaches/Boys Wanna Be Her/Peaches - Boys Wanna Be Her - 03 - Boys Wanna Be Her (Tommy Sunshine's Brooklyn Fire Retouch).mp3",
   "Genre": "Electronica/Downtempo"
 },
@@ -1551,8 +2783,24 @@
   "Genre": "Funk Rock"
 },
 {
+  "SourceFile": "Phaxe & Morten Granau/Long Story Short/Phaxe & Morten Granau - Long Story Short - 06 - Long Story Short (Static Movement remix).mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Phil Collins/Phil Collins - Another Day In Paradise (Felix Jaehn & Alex Schulz Bootleg).mp3",
+  "Genre": "Melodic House"
+},
+{
   "SourceFile": "Philipp Dittberner & Marv/Wolke 4/Philipp Dittberner & Marv - Wolke 4 - 01 - Wolke 4.mp3",
   "Genre": "Deep House"
+},
+{
+  "SourceFile": "Popof/High & Down EP/Popof - High & Down EP - 02 - Shades (Original Mix).mp3",
+  "Genre": "Techno"
+},
+{
+  "SourceFile": "Popof/Summer On Mars EP/Popof - Summer On Mars EP - 02 - Toxic Love.mp3",
+  "Genre": "Techno"
 },
 {
   "SourceFile": "Radiohead/Creep/Radiohead - Creep - 01 - Creep.mp3",
@@ -1783,6 +3031,10 @@
   "Genre": "Alternative Rock"
 },
 {
+  "SourceFile": "Rey&Kjavik/Rkadash/Rey&Kjavik - Rkadash - 05 - Vimalaa.mp3",
+  "Genre": "Minimal/Deep Tech"
+},
+{
   "SourceFile": "Rico Puestel/Leaving Lightly/Rico Puestel - Leaving Lightly - 01 - As Far As We Could.mp3",
   "Genre": "Tech House"
 },
@@ -1793,6 +3045,110 @@
 {
   "SourceFile": "Rico Puestel/Volute/Rico Puestel - Volute - 01 - Volute.mp3",
   "Genre": "Deep House"
+},
+{
+  "SourceFile": "Robin Schulz/Robin Schulz - Eines Tages.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Romeofoxtrott/Memories/Romeofoxtrott - Memories - 01 - Memories.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Röyksopp/Eple/Röyksopp - Eple - 01 - Eple.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 01 - Happy Up Here.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 02 - The Girl and the Robot.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 03 - Vision One.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 04 - This Must Be It.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 05 - Röyksopp Forever.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 06 - Miss It So Much.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 07 - Tricky Tricky.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 08 - You Don't Have A Clue.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 09 - Silver Cruiser.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 10 - True To Life.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Junior/Röyksopp - Junior - 11 - It's What I Want.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 01 - ....And the Forest Began to Sing.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 02 - Tricky Two.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 03 - The Alcoholic.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 04 - Senior Living.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 05 - The Drug.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 06 - Forsaken Cowboy.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 07 - The Fear.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 08 - Coming Home.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/Senior/Röyksopp - Senior - 09 - A Long, Long Way.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Röyksopp/What Else Is There_/Röyksopp - What Else Is There_ - 02 - What Else Is There_ (Thin White Duke mix).mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "RY X/Berlin/RY X - Berlin - 01 - Berlin.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "Sam Paganini/Satellite/Sam Paganini - Satellite - 10 - Rave.mp3",
+  "Genre": "Techno"
 },
 {
   "SourceFile": "Sarah Goldfarb/Essential/Sarah Goldfarb - Essential - 02 - Sarah's Scape.mp3",
@@ -1807,8 +3163,24 @@
   "Genre": "Dance"
 },
 {
+  "SourceFile": "Sébastien Léger/Bad Clock 04/Sébastien Léger - Bad Clock 04 - 01 - Bad Clock 04.mp3",
+  "Genre": "Techno"
+},
+{
   "SourceFile": "Sébastien Léger/Jaguar/Sébastien Léger - Jaguar - 01 - Jaguar.mp3",
   "Genre": "Deep House"
+},
+{
+  "SourceFile": "Sébastien Léger/Majestic/Sébastien Léger - Majestic - 03 - Majuro.mp3",
+  "Genre": "Progressive House"
+},
+{
+  "SourceFile": "Sébastien Léger/Polymod/Sébastien Léger - Polymod - 01 - Polymod (Original Mix).mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Seeed/Seeed/Seeed - Seeed - 04 - Augenbling.mp3",
+  "Genre": "Reggae"
 },
 {
   "SourceFile": "Shaggy feat. Akon/Intoxication/Shaggy feat. Akon - Intoxication - 13 - What's Love.mp3",
@@ -1823,8 +3195,16 @@
   "Genre": "Deep House"
 },
 {
+  "SourceFile": "Soko/Soko - I Kill Her (Hannes Fischer Remix).mp3",
+  "Genre": "Deep House"
+},
+{
   "SourceFile": "Solomun/Dance Baby/Solomun - Dance Baby - 05 - After Rain Comes Sun.mp3",
   "Genre": "Tech House"
+},
+{
+  "SourceFile": "Solomun/Member Of The Trick 08_ Koboldmaki/Solomun - Member Of The Trick 08_ Koboldmaki - 01 - Keep Control (Original Mix).mp3",
+  "Genre": "Techno"
 },
 {
   "SourceFile": "Stephan Bodzin/Liebe ist.../Stephan Bodzin - Liebe ist... - 03 - Liebe ist....mp3",
@@ -1879,6 +3259,18 @@
   "Genre": "Techno"
 },
 {
+  "SourceFile": "Stimming/Change EP/Stimming - Change EP - 02 - The Unicorn.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Stimming/Gaensebluemchen/Stimming - Gaensebluemchen - 02 - Melodica.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Stimming/Una Pena EP/Stimming - Una Pena EP - 01 - Una Pena (Original Mix).mp3",
+  "Genre": "Tech House"
+},
+{
   "SourceFile": "Supafly/Moving Too Fast/Supafly - Moving Too Fast - 05 - Moving Too Fast (Freemasons Club Mix).mp3",
   "Genre": "House"
 },
@@ -1895,12 +3287,24 @@
   "Genre": "Deep House"
 },
 {
+  "SourceFile": "Sven Väth/My Name Is Barbarella/Sven Väth - My Name Is Barbarella - 01 - My Name Is Barbarella (Deep Dish Armageddon Breakdown Mix).mp3",
+  "Genre": "Progressive House"
+},
+{
   "SourceFile": "Swedish House Mafia/One (Your Name)/Swedish House Mafia - One (Your Name) - 01 - One.mp3",
   "Genre": "Progressive House"
 },
 {
   "SourceFile": "Ten Walls/Walking With Elephants/Ten Walls - Walking With Elephants - 01 - Walking With Elephants.mp3",
   "Genre": "Deep House"
+},
+{
+  "SourceFile": "The Avener/Fade Out Lines/The Avener - Fade Out Lines - 01 - Fade Out Lines.mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "The Beatles/Abbey Road/The Beatles - Abbey Road - 07 - Here Comes the Sun (Remastered).mp3",
+  "Genre": "Rock"
 },
 {
   "SourceFile": "The Chemical Brothers/Come With Us/The Chemical Brothers - Come With Us - 04 - Star Guitar.mp3",
@@ -1949,6 +3353,18 @@
 {
   "SourceFile": "The Chemical Brothers/We Are the Night/The Chemical Brothers - We Are the Night - 04 - Saturate.mp3",
   "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "The Dave Brubeck Quartet/Time Out/The Dave Brubeck Quartet - Time Out - 03 - Take Five.mp3",
+  "Genre": "Jazz"
+},
+{
+  "SourceFile": "The Dø/On My Shoulders/The Dø - On My Shoulders - 01 - On My Shoulders (Radio Edit).mp3",
+  "Genre": "Pop Rock"
+},
+{
+  "SourceFile": "The Heavy/How Do You Like Me Now_/The Heavy - How Do You Like Me Now_ - 01 - How You Like Me Now_ (radio edit).mp3",
+  "Genre": "Indie Rock"
 },
 {
   "SourceFile": "The Notorious B.I.G./Notorious/The Notorious B.I.G. - Notorious - 05 - Party & Bullshit.mp3",
@@ -2051,6 +3467,94 @@
   "Genre": "UK Garage"
 },
 {
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 01 - Angels.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 02 - Chained.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 03 - Fiction.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 04 - Try.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 05 - Reunion.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 06 - Sunset.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 07 - Missing.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 08 - Tides.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 09 - Unfold.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 10 - Swept Away.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/Coexist/The xx - Coexist - 11 - Our Song.mp3",
+  "Genre": "Indie Pop"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 01 - Dangerous.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 02 - Say Something Loving.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 03 - Lips.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 04 - A Violent Noise.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 05 - Performance.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 06 - Replica.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 07 - Brave For You.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 08 - On Hold.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 09 - I Dare You.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/I See You/The xx - I See You - 10 - Test Me.mp3",
+  "Genre": "Indie Rock"
+},
+{
+  "SourceFile": "The xx/The xx - Intro.mp3",
+  "Genre": "Indie Pop"
+},
+{
   "SourceFile": "The xx/xx/The xx - xx - 03 - Crystalised.mp3",
   "Genre": "Indie Pop"
 },
@@ -2107,12 +3611,36 @@
   "Genre": "Tech House"
 },
 {
+  "SourceFile": "Tube & Berger/Tube & Berger - Free Tribe.mp3",
+  "Genre": "Tech House"
+},
+{
+  "SourceFile": "Undercover/Chapati/Undercover - Chapati - 01 - Chapati.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Undercover/Undercover - Balikali.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Unders/Syria/Unders - Syria - 01 - Syria (original).mp3",
+  "Genre": "Deep House"
+},
+{
   "SourceFile": "Utah Saints/Something Good '08/Utah Saints - Something Good '08 - 02 - Something Good '08 (High Contrast remix).mp3",
   "Genre": "Drum & Bass"
 },
 {
+  "SourceFile": "VanLadyLove/VanLadyLove/VanLadyLove - VanLadyLove - 01 - Nightcall (Cover of Kavinsky).mp3",
+  "Genre": "None"
+},
+{
   "SourceFile": "Van McCoy & The Soul City Symphony/Kung Fu Hustle/Van McCoy & The Soul City Symphony - Kung Fu Hustle - 33 - The Hustle.mp3",
   "Genre": "Disco"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/A-Sides, Vol.3/A-Sides, Vol.3 - 02 - Dense & Pika - TEX (Original Mix).mp3",
+  "Genre": "Techno (Peak Time / Driving / Hard)"
 },
 {
   "SourceFile": "Verschiedene Interpreten/Bar 25 - Tage Außerhalb Der Zeit/Bar 25 - Tage Außerhalb Der Zeit - 01 - Acid Pauli - Abschied25 (Original Mix).mp3",
@@ -2219,6 +3747,74 @@
   "Genre": "Electronica/Downtempo"
 },
 {
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 01 - Placebo - Every You Every Me (single mix).mp3",
+  "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 02 - Fatboy Slim - Praise You.mp3",
+  "Genre": "Big Beat"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 03 - Blur - Coffee & TV.mp3",
+  "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 04 - Day One - Bedroom Dancing.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 05 - Counting Crows - Colorblind.mp3",
+  "Genre": "Ballad"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 06 - Kristen Barry - Ordinary Life.mp3",
+  "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 07 - Marcy Playground - Comin' Up From Behind.mp3",
+  "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 08 - Skunk Anansie - Secretly.mp3",
+  "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 09 - Craig Armstrong feat. Elizabeth Fraser - This Love.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 10 - Aimee Mann - You Could Make a Killing.mp3",
+  "Genre": "Alternative Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 11 - Faithless - Addictive.mp3",
+  "Genre": "None"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 12 - Abra Moore - Trip on Love.mp3",
+  "Genre": "Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 13 - Bare Jr. - You Blew Me Off.mp3",
+  "Genre": "Rock"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Eiskalte Engel/Eiskalte Engel - 14 - The Verve - Bitter Sweet Symphony.mp3",
+  "Genre": "Brit Pop"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Hologram/Hologram - 01 - Vini Vici, Emok, Martin Vice, Off Limits - In & Out.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Psychedelic Awakening (Compiled by Ace Ventura)/Psychedelic Awakening (Compiled by Ace Ventura) - 01 - Astrix - Sahara.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Verschiedene Interpreten/Sosuntwintig/Sosuntwintig - 02 - Oliver Schories - The Composer (Original Mix).mp3",
+  "Genre": "Techno (Peak Time / Driving / Hard)"
+},
+{
   "SourceFile": "Verschiedene Interpreten/Vollidiot/Vollidiot - 01 - Nena, Olli & Oliver Pocher & Remmler - Ich kann nix dafür.mp3",
   "Genre": "Pop"
 },
@@ -2299,10 +3895,38 @@
   "Genre": "Indie Pop"
 },
 {
+  "SourceFile": "Vicetone & Tony Igy/Astronomia/Vicetone & Tony Igy - Astronomia - 01 - Astronomia.mp3",
+  "Genre": "Dance"
+},
+{
+  "SourceFile": "Vini Vici & Astrix/Adhana/Vini Vici & Astrix - Adhana - 01 - Adhana.mp3",
+  "Genre": "Psy Trance"
+},
+{
+  "SourceFile": "Vini Vici/Future Classics/Vini Vici - Future Classics - 02 - Namaste.mp3",
+  "Genre": "Psy Trance"
+},
+{
   "SourceFile": "Watermät/Bullit/Watermät - Bullit - 01 - Bullit.mp3",
   "Genre": "Future House"
 },
 {
+  "SourceFile": "Weiss/Weiss City Vol. 1/Weiss - Weiss City Vol. 1 - 03 - My Sister (original mix).mp3",
+  "Genre": "Deep House"
+},
+{
+  "SourceFile": "Xique-Xique/Xaxoeira/Xique-Xique - Xaxoeira - 01 - 1542.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
+  "SourceFile": "Xique-Xique/Xaxoeira/Xique-Xique - Xaxoeira - 05 - Apnee.mp3",
+  "Genre": "Electronica/Downtempo"
+},
+{
   "SourceFile": "YELLE/À cause des garçons/YELLE - À cause des garçons - 04 - À cause des garçons (Riot in Belgium remix).mp3",
   "Genre": "Indie Dance/Nu Disco"
+},
+{
+  "SourceFile": "Zebra Centauri/Tough Young Guys/Zebra Centauri - Tough Young Guys - 04 - Inflagranti (Christopher Schwarzwalder Remix).mp3",
+  "Genre": "Deep House"
 }]
